@@ -26,3 +26,8 @@ margin-top: 1rem;
 font-size: 1.5rem;
 color: aliceblue;
 }
+
+@media (max-width:600px ){
+    .cover-container{
+    width: 80%;}
+}
